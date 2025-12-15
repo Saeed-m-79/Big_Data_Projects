@@ -5,3 +5,9 @@
  much a user of the service would appreciate a certain movie and then recommend to each
  user those movies that the user is likely to enjoy. The prediction is based on how the user
  in question has rated other movies, and how other users have rated the different movies.
+
+Task 1: Implement the Baseline Predictor
+
+ Task 2: Implement an Improved Predictor
+
+ 
